@@ -12,10 +12,12 @@ Automation exercise using C#
 5. After the website is loaded, copy the URL of page and store it in a text file
 
 
-# Steps to run
+# Pre-conditions 
+- NET CORE SDK installed. Url: https://dotnet.microsoft.com/download
+- Add ChromeDriver to your path or if you have MacOS install it by running: "brew install chromedriver" in your terminal
 
-- 
--
--
--
--
+# Steps to run
+- Clone the repository
+- Navigate to c-sharp-automation folder
+- In the terminal run: dotnet run
+- After executing the test a new txt file will appear in your folder
