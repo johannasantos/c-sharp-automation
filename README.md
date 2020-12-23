@@ -14,7 +14,9 @@ Automation exercise using C#
 
 # Pre-conditions 
 - NET CORE SDK installed. Url: https://dotnet.microsoft.com/download
-- Add ChromeDriver to your path or if you have MacOS install it by running: "brew install chromedriver" in your terminal
+- Add ChromeDriver to your path or if you have MacOS install it by running: "brew install chromedriver" in your terminal.
+- You can also install ChromeDriver by installing Nuget package. 
+Run in terminal: dotnet add package Selenium.WebDriver.ChromeDriver
 
 # Steps to run
 - Clone the repository
